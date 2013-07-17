@@ -1,5 +1,7 @@
 package abstractclasses;
 
+// added a comment 
+
 public class Hourly extends Employee
 {
 	private double hourlyRate, hoursWorked;
