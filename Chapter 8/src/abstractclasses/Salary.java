@@ -1,6 +1,7 @@
 package abstractclasses;
 
 // Abstract class 
+//Salary class
 
 public class Salary extends Employee
 {
