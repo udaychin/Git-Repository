@@ -1,5 +1,7 @@
 package abstractclasses;
 
+// Abstract class 
+
 public class Salary extends Employee
 {
 	private double salary;	//annual salary
