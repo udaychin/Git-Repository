@@ -1,5 +1,6 @@
 package abstractclasses;
 
+// comments added employee class
 public abstract class Employee
 {
 	private String name;
