@@ -6,7 +6,7 @@ public class BigScreenTV extends Television
 
 	public BigScreenTV()
 	{
-		super();
+		//super();
 		aspectRatio = "unknown";
 		size = 40;
 		System.out.println("Inside BigScreenTV()");
